@@ -1,4 +1,6 @@
-## Hi there 👋 My name is Davlat, I am Software Quality Engineer and I like to learn new technologies by building useful tools.
+## Hi there 👋
+
+## My name is Davlat, I am Software Quality Engineer and I like to learn new technologies by building useful tools.
 
 I am currently building a Credit Card Library MacOS app using Swift and SwiftUI. The goal is to make it easy to track all of my credit cards, which now I have accumilated over 20+. Check it out!
 
